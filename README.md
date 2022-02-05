@@ -1,6 +1,6 @@
 ### Hi there👋
 
-- 🔭 A data science enthusiastic with hands on experience
+- 🔭 I'm data science enthusiastic with hands on experience
 - 🌱 currently learning latest data science stacks
 - 👯 Looking for a challenging team with a great environment
 - 💬 primary skills: Python, SQL, Tableu, ML, NLP, DL, forecasting.
