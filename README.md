@@ -1,4 +1,4 @@
-###👋 Hi, I’m Harishankar Giri
+👋 Hi, I’m Harishankar Giri
 
 - 🔭 My current goal is to become a Data Scientist/Data Analyst who can derive meaningful and actionable insights from a given data
 - 🌱 I’m currently pursuing Data Science career and learning the relavent technology related it
