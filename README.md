@@ -1,7 +1,7 @@
 👋 Hi, I’m Harishankar Giri!
 
-- 🔭 My current goal is to become a Data Scientist/Data Analyst who can derive meaningful and actionable insights from a given data
-- 🌱 I’m currently pursuing Data Science career and learning the relavent technology related it
+- 🔭 My current goal is to become a Data Analyst who can derive meaningful and actionable insights from a given data
+- 🌱 I’m currently pursuing Data Analyst career and learning the relavent technology related it
 - 👯 Looking for a challenging team with a great environment 
 - 🤔 I’m looking for Intern or Intern + JOB Role
 - 💬 skills: Python, MYSQL, Tableu, ML, PowerBI, MS Excel
